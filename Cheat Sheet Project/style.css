@@ -1,0 +1,83 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+header {
+    background-image: url(pngtree-g20-summit-simple-business-background-image_232743.jpg);
+}
+
+h1 {
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: azure;
+    font-size: 50px;
+    padding: 50px;
+    padding-bottom: 0px;
+}
+
+h2 {
+    font-size: 35px;
+    text-decoration: underline;
+}
+
+nav{
+    flex: 1;
+    text-align: center;
+    color: azure;
+    font-weight: bold;
+}
+ul{
+    list-style-type: none;
+    text-align: center;
+    font-size: 20px;
+    padding-bottom: 30px;
+}
+li{
+       display: inline;  
+       
+    }
+
+    a{
+        text-decoration: none;
+        color: white;
+     }
+     a:hover{
+         color: darkblue;
+
+     }
+
+body {
+    background-color: #e4f2f7;
+}
+
+td, th {
+    border: 1px solid black;
+    padding: 8px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+  }
+  
+  th {
+    height: 50px;
+    font-size: 17px;
+    text-align: justify;
+    background-color: #399cbd;
+    color: white;
+  }
+  
+  table {
+    border-collapse: collapse;
+    width: 100;
+  }
+
+  tr:hover {
+    background-color: lightblue;
+  }
+
+  .contact {
+      text-align: center;
+      font-family: Arial, Helvetica, sans-serif;
+      font-style: italic;
+      font-size: 15px;
+      padding: 20px;
+  }
